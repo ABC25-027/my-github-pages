@@ -1,0 +1,15 @@
+C:\Users\aswaa\OneDrive\Desktop\my-github-pages\bin\Debug\net10.0\my-github-pages.exe
+C:\Users\aswaa\OneDrive\Desktop\my-github-pages\bin\Debug\net10.0\my-github-pages.deps.json
+C:\Users\aswaa\OneDrive\Desktop\my-github-pages\bin\Debug\net10.0\my-github-pages.runtimeconfig.json
+C:\Users\aswaa\OneDrive\Desktop\my-github-pages\bin\Debug\net10.0\my-github-pages.dll
+C:\Users\aswaa\OneDrive\Desktop\my-github-pages\bin\Debug\net10.0\my-github-pages.pdb
+C:\Users\aswaa\OneDrive\Desktop\my-github-pages\obj\Debug\net10.0\my-github-pages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aswaa\OneDrive\Desktop\my-github-pages\obj\Debug\net10.0\my-github-pages.AssemblyInfoInputs.cache
+C:\Users\aswaa\OneDrive\Desktop\my-github-pages\obj\Debug\net10.0\my-github-pages.AssemblyInfo.cs
+C:\Users\aswaa\OneDrive\Desktop\my-github-pages\obj\Debug\net10.0\my-github-pages.csproj.CoreCompileInputs.cache
+C:\Users\aswaa\OneDrive\Desktop\my-github-pages\obj\Debug\net10.0\my-github-pages.sourcelink.json
+C:\Users\aswaa\OneDrive\Desktop\my-github-pages\obj\Debug\net10.0\my-github-pages.dll
+C:\Users\aswaa\OneDrive\Desktop\my-github-pages\obj\Debug\net10.0\refint\my-github-pages.dll
+C:\Users\aswaa\OneDrive\Desktop\my-github-pages\obj\Debug\net10.0\my-github-pages.pdb
+C:\Users\aswaa\OneDrive\Desktop\my-github-pages\obj\Debug\net10.0\my-github-pages.genruntimeconfig.cache
+C:\Users\aswaa\OneDrive\Desktop\my-github-pages\obj\Debug\net10.0\ref\my-github-pages.dll
